@@ -1,2 +1,2 @@
-# cybersecurity-engineering-portfolio
+# Cybersecurity Engineering Portfolio
 Cybersecurity Engineering Portfolio
